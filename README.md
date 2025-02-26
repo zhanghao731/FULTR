@@ -14,11 +14,11 @@ FULTR/
 │ │ ├──...
 │ │ ├──part-00105.gz
 │ ├── test/
+│ │ ├──part-00000.gz
 │ │ ├──part-00001.gz
 │ │ ├──part-00002.gz
 │ │ ├──part-00003.gz
 │ │ ├──part-00004.gz
-│ │ ├──part-00005.gz
 ```
 ## Download the Dataset
 You can download the dataset using the link: [Download Dataset](https://pan.baidu.com/s/1LGgRHuy5bFKIFqWvsNVl9A?pwd=pg9c). Due to legal restrictions with Baidu, we only made part of the training set of the posterior-attribute set available. If you want the full data, please contact the authors and explain the reason for using this dataset.
